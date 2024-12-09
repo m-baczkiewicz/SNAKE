@@ -2,6 +2,11 @@
 
 Witaj w grze **Snake** napisanej w Pythonie! W tym pliku znajdziesz szczegółowe instrukcje dotyczące pobierania, instalacji i uruchamiania gry na systemach macOS i Windows.
 
+## Zobacz grę w akcji
+
+![Snake Game](snake_game.gif)
+
+
 ---
 
 ## Wymagania
