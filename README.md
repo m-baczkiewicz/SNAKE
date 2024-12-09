@@ -29,6 +29,9 @@ Upewnij się, że masz zainstalowanego Pythona 3.x. Możesz pobrać instalator z
 
 Lub pobierz pliki ręcznie ze strony repozytorium i rozpakuj je na swoim komputerze.
 
+![jak pobrac??](instrukcja.png)
+
+
 ### macOS
 
 Uruchom grę
